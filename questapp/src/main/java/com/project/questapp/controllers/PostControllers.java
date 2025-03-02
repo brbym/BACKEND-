@@ -54,7 +54,7 @@ public class PostControllers {
 	    postService.deleteOnePostById(postId);	
 	}
 	
-	String tamam;
+
 	
 	
 	
